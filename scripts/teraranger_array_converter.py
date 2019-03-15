@@ -145,7 +145,7 @@ class TrArrayConverter(object):
         # Init of variables
         self.tf_list = []
         self.offsets = []
-        self.number_of_pos = 360
+        self.number_of_pos = 8
         self.scan_init = False
         self.pt_cld_init = False
         self.number_of_sensors = 8
